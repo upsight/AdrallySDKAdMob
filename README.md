@@ -1,6 +1,6 @@
 After importing the AdMob SDKs into your project (https://developers.google.com/mobile-ads-sdk/download);
 
-# iOS
+# iOS  (AdRally SDK version 1.37.4)
 
 1. import libAdRallyAdMob.a to your project. This Library contains both the AdRally SDK as well as the AdMob adapter class for AdRally.
 
@@ -30,7 +30,7 @@ After importing the AdMob SDKs into your project (https://developers.google.com/
 3. Add ```-ObjC``` to your project's linker flags under "Build Settings" > "Linking" > "Other Linker Flags"
 
 
-# Android
+# Android (AdRally SDK version 1.37.4)
 
 1. import FuseSDK.jar to your project. This Jar contains both the AdRally SDK as well as the AdMob adapter class for AdRally.
 2. In your manifest:
